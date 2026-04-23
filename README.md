@@ -1,5 +1,5 @@
 # Games
-This repository contains the games I've built while learning game development . Each project reflects my progress and understanding . You can watch the gameplay by opening the link in your browser . Feel free to explore...
+This repository contains the games I've built while learning game development . Each project reflects my progress and understanding . Feel free to explore...
 # 1 .  🎮 Rooftop Rush
 
 A 3D endless runner game where a guy runs, walks, and jumps across rooftops and floors. 
